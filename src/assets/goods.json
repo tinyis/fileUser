@@ -1,0 +1,16 @@
+{
+  "goodList":
+  [{
+      "title": "lemon",
+      "price": 28,
+      "quantity": 3
+  },{
+      "title": "cherry",
+      "price": 67,
+      "quantity": 6
+  },{
+      "title": "cheese",
+      "price": 100,
+      "quantity": 7
+  }]
+}
